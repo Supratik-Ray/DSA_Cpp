@@ -175,7 +175,7 @@ int main()
 
   /*OTHER USEFUL VECTOR METHODS*/
   // v.size() -> gives size of the vector
-  // v.pop_back() -> pops off the first element in the vector
+  // v.pop_back() -> pops off the last element in the vector
   // v1.swap(v2) -> swaps 2 vectors
   // v.clear() -> erases the entire vector
   // v.empy() -> tells whether the vector is empty or not
