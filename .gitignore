@@ -1,0 +1,16 @@
+# Compiled binaries
+a.out
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.gch
+
+# CMake / build /cache folders 
+build/
+cmake-build-*/
+.vscode
