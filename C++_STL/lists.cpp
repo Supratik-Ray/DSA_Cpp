@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/*LIST -> a list is a similar dynamic container to vector but has some front side operations like push_front() and emplace_front(). In vectors to insert something at the beginning, we needed to use insert() but its more costly than push_front() in list*/
+/*LIST -> a list is a similar dynamic container to vector but has some front side operations like push_front() and emplace_front(). In vectors to insert something at the beginning, we needed to use insert() but its more costly than push_front() in list. This is bcoz list is implemented using  doubly linked list so insert opertation in the beginning is not as costly*/
 
 int main()
 {
